@@ -10,18 +10,18 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1460311235, 
+            "last_rendertime": 1460397653, 
             "name": "A regular render", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 6, 
+            "zoomLevels": 7, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
             "world": "My World", 
-            "maxZoom": 6, 
+            "maxZoom": 7, 
             "path": "render1", 
             "showlocationmarker": true
         }, 
@@ -32,7 +32,7 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1460311235, 
+            "last_rendertime": 1460397653, 
             "name": "Upper-right north direction", 
             "poititle": "Markers", 
             "north_direction": 1, 
@@ -54,18 +54,18 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1460311235, 
+            "last_rendertime": 1460397653, 
             "name": "Nighttime", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 6, 
+            "zoomLevels": 7, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
             "world": "My World", 
-            "maxZoom": 6, 
+            "maxZoom": 7, 
             "path": "render3", 
             "showlocationmarker": true
         }
@@ -104,6 +104,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1460311755"
+        "cacheTag": "1460398334"
     }
 };
