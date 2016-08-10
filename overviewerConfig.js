@@ -10,7 +10,7 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1470765629, 
+            "last_rendertime": 1470852031, 
             "name": "A regular render", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -32,7 +32,7 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1470765629, 
+            "last_rendertime": 1470852031, 
             "name": "Upper-right north direction", 
             "poititle": "Markers", 
             "north_direction": 1, 
@@ -54,7 +54,7 @@ var overviewerConfig = {
                 256
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1470765629, 
+            "last_rendertime": 1470852031, 
             "name": "Nighttime", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -104,6 +104,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1470766179"
+        "cacheTag": "1470852572"
     }
 };
